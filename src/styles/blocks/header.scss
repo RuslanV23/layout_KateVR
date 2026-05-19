@@ -190,7 +190,7 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     justify-self: end;
-    gap: 100px 10px;
+    gap: 10px 100px;
   }
 
   &__swiper-pagination {
